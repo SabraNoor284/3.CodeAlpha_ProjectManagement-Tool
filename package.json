@@ -1,0 +1,18 @@
+{
+  "name": "codealpha-project-manager",
+  "version": "1.0.0",
+  "description": "CodeAlpha Full Stack Internship - Task 3: Project Management Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "ws": "^8.18.0"
+  }
+}
